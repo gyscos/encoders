@@ -1,0 +1,12 @@
+[package]
+name = "encoders"
+version = "0.1.0"
+authors = ["Alexandre Bury <alexandre.bury@gmail.com>"]
+readme = "Readme.md"
+repository = "https://github.com/gyscos/encoders"
+license = "MIT OR Apache-2.0"
+description = "Traits to abstract over compression formats"
+categories = ["compression", "rust-patterns"]
+
+[badges]
+travis-ci = { repository = "gyscos/encoders" }
